@@ -1,0 +1,22 @@
+{
+  "name": "CardLayoutView",
+  "version": "0.0.7",
+  "summary": "A short description of CardLayoutView.",
+  "description": "CardLayoutView",
+  "homepage": "http://EXAMPLE/CardLayoutView",
+  "authors": {
+    "Debaditya  Sarkar": "debadisa@in.ibm.com"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "source": {
+    "git": "https://github.com/debasarkar-22/CardLayoutView.git",
+    "tag": "0.0.7"
+  },
+  "source_files": [
+    "CardLayoutView",
+    "CardLayoutView/Sources/**/*.{h,m,swift,xib}"
+  ],
+  "exclude_files": "Classes/Exclude"
+}

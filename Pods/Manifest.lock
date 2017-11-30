@@ -1,0 +1,22 @@
+PODS:
+  - CardLayoutView (0.0.7)
+
+DEPENDENCIES:
+  - CardLayoutView (from `https://github.com/debasarkar-22/CardLayoutView.git`, tag `0.0.7`)
+
+EXTERNAL SOURCES:
+  CardLayoutView:
+    :git: https://github.com/debasarkar-22/CardLayoutView.git
+    :tag: 0.0.7
+
+CHECKOUT OPTIONS:
+  CardLayoutView:
+    :git: https://github.com/debasarkar-22/CardLayoutView.git
+    :tag: 0.0.7
+
+SPEC CHECKSUMS:
+  CardLayoutView: 06ba7a769ddbe1bb781a925667e66c0f8ef6567d
+
+PODFILE CHECKSUM: 106716005abf02bd537be69ee4810fe81f6c7fa5
+
+COCOAPODS: 1.3.1

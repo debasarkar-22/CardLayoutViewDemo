@@ -1,0 +1,6 @@
+framework module CardLayoutView {
+  umbrella header "CardLayoutView-umbrella.h"
+
+  export *
+  module * { export * }
+}
